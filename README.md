@@ -1,5 +1,5 @@
-# Annotation
-This is a software framework designed for manipulating different structures of data in the data lake. It is based on ORMapping and uses Java annotation to manipulate data as Java objects.
+# Data Lakes data manipulation software framework
+This is a software framework for manipulating different data structures in the data lake. It is based on ORMapping and uses Java annotations to manipulate data as Java objects.
 
 Developer: Edmond Hoi
 
