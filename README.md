@@ -1,4 +1,4 @@
-# Data Lakes data manipulation software framework
+# Data Lakes Data Manipulation Software Framework
 This is a software framework for manipulating different data structures in the data lake. It is based on ORMapping and uses Java annotations to manipulate data as Java objects.
 
 Developer: Edmond Hoi
